@@ -18,8 +18,8 @@ interface NavItem {
 
 const navItems: NavItem[] = [
   { icon: Home, label: "Overview", targetId: "overview" },
-  { icon: BookOpen, label: "Courses", targetId: "courses" },
-  { icon: BarChart3, label: "Activity", targetId: "activity" },
+  // { icon: BookOpen, label: "Courses", targetId: "courses" },
+  // { icon: BarChart3, label: "Activity", targetId: "activity" },
 ];
 
 interface NavButtonProps {
